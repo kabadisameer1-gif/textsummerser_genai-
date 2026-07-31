@@ -27,7 +27,8 @@ An AI-powered chatbot built with **Python, Streamlit, and Google Gemini AI (GenA
 
 ## 📸 Screenshot
 
-![AI Document Assistant](screenshot.png)
+<img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/a4bf3a45-f567-4bfe-9477-68f716d1768d" />
+
 
 ---
 
